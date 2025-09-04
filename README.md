@@ -55,7 +55,6 @@ $$
 | $K$                | Permeabilidade intrínseca do meio poroso (m²)                 |
 | $\rho$             | Densidade local (interpolada pelo VOF)                        |
 | $\mathbf{f}_\sigma$| Força de tensão superficial entre as fases                    |
-| $\phi$             | Fluxo de massa pela face ($\rho\,\mathbf{U}\cdot\mathbf{S}_f$)|
 
 ---
 
